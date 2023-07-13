@@ -1,6 +1,6 @@
 <h1> EXPRESSÕES REGULARES </h1> 
 
-<h2> regexr.com (site usado teste de ER) </h2>
+<h2> regexr.com (site usado no teste de ER) </h2>
 
 <h4> Qual a sua função na  pratica </h4>    
 
