@@ -1,5 +1,8 @@
 <h1> EXPRESSÕES REGULARES </h1> 
 
+ 
+  ***DOCUMENTAÇÃO*** --------> <a>https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Regular_expressions</a>
+
 <h2> regexr.com (site usado no teste de ER) </h2>
 
 <h4> Qual a sua função na  pratica </h4>    
